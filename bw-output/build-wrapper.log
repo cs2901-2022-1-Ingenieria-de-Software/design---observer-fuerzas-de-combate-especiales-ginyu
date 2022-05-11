@@ -1,0 +1,104 @@
+Tue May 10 21:43:36 2022: build-wrapper, version 6.33 (win-x86-64)
+Tue May 10 21:43:36 2022: isWow64: 0
+Tue May 10 21:43:36 2022: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Tue May 10 21:43:36 2022: current directory: E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu
+Tue May 10 21:43:36 2022: cwd: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu>
+Tue May 10 21:43:36 2022: out-dir absolute path: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu\bw-output>
+Tue May 10 21:43:36 2022: command line received: <g++ main.cpp>
+Tue May 10 21:43:36 2022: initializing json file
+Tue May 10 21:43:36 2022: starting debug cycle
+Tue May 10 21:43:36 2022: process created with pid: 11352
+Tue May 10 21:43:36 2022: image path name: <C:\mingw64\bin\g++.exe>
+Tue May 10 21:43:36 2022: command line: <g++ main.cpp>
+Tue May 10 21:43:36 2022: working directory: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu\>
+Tue May 10 21:43:36 2022: isWow64: 0
+Tue May 10 21:43:36 2022: env0: <ALLUSERSPROFILE=C:\ProgramData>
+Tue May 10 21:43:36 2022: env1: <APPDATA=C:\Users\User\AppData\Roaming>
+Tue May 10 21:43:36 2022: env2: <APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true>
+Tue May 10 21:43:36 2022: env3: <CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_20172_POLUXRUOQSLTVCAE>
+Tue May 10 21:43:36 2022: env4: <CLion=C:\Program Files\JetBrains\CLion 2020.3.3\bin;>
+Tue May 10 21:43:36 2022: env5: <CommonProgramFiles=C:\Program Files\Common Files>
+Tue May 10 21:43:36 2022: env6: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Tue May 10 21:43:36 2022: env7: <CommonProgramW6432=C:\Program Files\Common Files>
+Tue May 10 21:43:36 2022: env8: <COMPUTERNAME=DESKTOP-3A5EGU4>
+Tue May 10 21:43:36 2022: env9: <ComSpec=C:\WINDOWS\system32\cmd.exe>
+Tue May 10 21:43:36 2022: env10: <CYGWIN=wincmdln>
+Tue May 10 21:43:36 2022: env11: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Tue May 10 21:43:36 2022: env12: <FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer>
+Tue May 10 21:43:36 2022: env13: <FPS_BROWSER_USER_PROFILE_STRING=Default>
+Tue May 10 21:43:36 2022: env14: <HOMEDRIVE=C:>
+Tue May 10 21:43:36 2022: env15: <HOMEPATH=\Users\User>
+Tue May 10 21:43:36 2022: env16: <IntelliJ IDEA Community Edition=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;>
+Tue May 10 21:43:36 2022: env17: <LOCALAPPDATA=C:\Users\User\AppData\Local>
+Tue May 10 21:43:36 2022: env18: <LOCAL_GIT_DIRECTORY=C:\Users\User\AppData\Local\GitHubDesktop\app-3.0.0\resources\app\git>
+Tue May 10 21:43:36 2022: env19: <LOGONSERVER=\\DESKTOP-3A5EGU4>
+Tue May 10 21:43:36 2022: env20: <MAVEN_HOME=D:\apache-maven-3.8.5>
+Tue May 10 21:43:36 2022: env21: <NUMBER_OF_PROCESSORS=8>
+Tue May 10 21:43:36 2022: env22: <OneDrive=C:\Users\User\OneDrive>
+Tue May 10 21:43:36 2022: env23: <OneDriveConsumer=C:\Users\User\OneDrive>
+Tue May 10 21:43:36 2022: env24: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue May 10 21:43:36 2022: env25: <OS=Windows_NT>
+Tue May 10 21:43:36 2022: env26: <Path=C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\TDM-GCC-64\bin;C:\Program Files\CMake\bin;C:\Program Files\Git\cmd;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\User\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\User\AppData\Local\Programs\Python\Python38\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\AppData\Local\atom\bin;C:\texlive\2020\bin\win32;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\mingw64;C:\mingw64\bin;C:\Users\User\DevLibraries\SFML\32bit\SFML-2.5.1\bin;C:\SFML\bin;C:\Program Files\JetBrains\CLion 2020.3.3\bin;;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\PostgreSQL\13\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Java\jdk-11.0.12\bin;D:\Android Studio\bin;C:\Program Files\Git\bin;C:\SFML\include;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;;D:\apache-maven-3.8.5\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Program Files\CMake\bin;C:\build-wrapper-win-x86;C:\sonar-scanner-4.7.0.2747-windows\bin;>
+Tue May 10 21:43:36 2022: env27: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL>
+Tue May 10 21:43:36 2022: env28: <PROCESSOR_ARCHITECTURE=AMD64>
+Tue May 10 21:43:36 2022: env29: <PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD>
+Tue May 10 21:43:36 2022: env30: <PROCESSOR_LEVEL=23>
+Tue May 10 21:43:36 2022: env31: <PROCESSOR_REVISION=1801>
+Tue May 10 21:43:36 2022: env32: <ProgramData=C:\ProgramData>
+Tue May 10 21:43:36 2022: env33: <ProgramFiles=C:\Program Files>
+Tue May 10 21:43:36 2022: env34: <ProgramFiles(x86)=C:\Program Files (x86)>
+Tue May 10 21:43:36 2022: env35: <ProgramW6432=C:\Program Files>
+Tue May 10 21:43:36 2022: env36: <PROMPT=$P$G>
+Tue May 10 21:43:36 2022: env37: <PSModulePath=C:\Users\User\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules>
+Tue May 10 21:43:36 2022: env38: <PUBLIC=C:\Users\Public>
+Tue May 10 21:43:36 2022: env39: <SESSIONNAME=Console>
+Tue May 10 21:43:36 2022: env40: <SONAR_TOKEN=ad4ca5600c1c6268e4896133d0c71b4991289190>
+Tue May 10 21:43:36 2022: env41: <SystemDrive=C:>
+Tue May 10 21:43:36 2022: env42: <SystemRoot=C:\WINDOWS>
+Tue May 10 21:43:36 2022: env43: <TEMP=C:\Users\User\AppData\Local\Temp>
+Tue May 10 21:43:36 2022: env44: <TMP=C:\Users\User\AppData\Local\Temp>
+Tue May 10 21:43:36 2022: env45: <USERDOMAIN=DESKTOP-3A5EGU4>
+Tue May 10 21:43:36 2022: env46: <USERDOMAIN_ROAMINGPROFILE=DESKTOP-3A5EGU4>
+Tue May 10 21:43:36 2022: env47: <USERNAME=User>
+Tue May 10 21:43:36 2022: env48: <USERPROFILE=C:\Users\User>
+Tue May 10 21:43:36 2022: env49: <windir=C:\WINDOWS>
+Tue May 10 21:43:36 2022: env50: <TERM_PROGRAM=vscode>
+Tue May 10 21:43:36 2022: env51: <TERM_PROGRAM_VERSION=1.66.2>
+Tue May 10 21:43:36 2022: env52: <LANG=es_ES.UTF-8>
+Tue May 10 21:43:36 2022: env53: <COLORTERM=truecolor>
+Tue May 10 21:43:36 2022: env54: <VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-50e9252bd9-sock>
+Tue May 10 21:43:36 2022: env55: <VSCODE_GIT_ASKPASS_NODE=C:\Users\User\AppData\Local\Programs\Microsoft VS Code\Code.exe>
+Tue May 10 21:43:36 2022: env56: <VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node>
+Tue May 10 21:43:36 2022: env57: <VSCODE_GIT_ASKPASS_MAIN=c:\Users\User\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js>
+Tue May 10 21:43:36 2022: env58: <GIT_ASKPASS=c:\Users\User\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh>
+Tue May 10 21:43:36 2022: env59: <_NO_DEBUG_HEAP=1>
+Tue May 10 21:43:36 2022: process created with pid: 19044
+Tue May 10 21:43:36 2022: image path name: <C:\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\7.3.0\cc1plus.exe>
+Tue May 10 21:43:36 2022: command line: <C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/7.3.0/cc1plus.exe -quiet -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/ -D_REENTRANT main.cpp -quiet -dumpbase main.cpp -mtune=core2 -march=nocona -auxbase main -o C:\Users\User\AppData\Local\Temp\cc4sR2pO.s>
+Tue May 10 21:43:36 2022: working directory: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu\>
+Tue May 10 21:43:36 2022: isWow64: 0
+Tue May 10 21:43:36 2022: skipping process C:\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\7.3.0\cc1plus.exe with pid: 19044
+Tue May 10 21:43:37 2022: process with pid 19044 exit with code: 0 (0x0)
+Tue May 10 21:43:37 2022: process created with pid: 19016
+Tue May 10 21:43:37 2022: image path name: <C:\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\7.3.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe>
+Tue May 10 21:43:37 2022: command line: <C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/bin/as.exe -o C:\Users\User\AppData\Local\Temp\cchlclI0.o C:\Users\User\AppData\Local\Temp\cc4sR2pO.s>
+Tue May 10 21:43:37 2022: working directory: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu\>
+Tue May 10 21:43:37 2022: isWow64: 0
+Tue May 10 21:43:37 2022: skipping process C:\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\7.3.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe with pid: 19016
+Tue May 10 21:43:37 2022: process with pid 19016 exit with code: 0 (0x0)
+Tue May 10 21:43:37 2022: process created with pid: 6048
+Tue May 10 21:43:37 2022: image path name: <C:\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\7.3.0\collect2.exe>
+Tue May 10 21:43:37 2022: command line: <C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/7.3.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/7.3.0/liblto_plugin-0.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/7.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\User\AppData\Local\Temp\ccuLqFTh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw730/x86_64-730-posix-seh-rt_v5-rev0/mingw64 -m i386pep -Bdynamic C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../.. C:\Users\User\AppData\Local\Temp\cchlclI0.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/crtend.o>
+Tue May 10 21:43:37 2022: working directory: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu\>
+Tue May 10 21:43:37 2022: isWow64: 0
+Tue May 10 21:43:37 2022: skipping process C:\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\7.3.0\collect2.exe with pid: 6048
+Tue May 10 21:43:37 2022: process created with pid: 13156
+Tue May 10 21:43:37 2022: image path name: <C:\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\7.3.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe>
+Tue May 10 21:43:37 2022: command line: <C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/7.3.0/liblto_plugin-0.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/7.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\User\AppData\Local\Temp\ccuLqFTh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw730/x86_64-730-posix-seh-rt_v5-rev0/mingw64 -m i386pep -Bdynamic C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../.. C:\Users\User\AppData\Local\Temp\cchlclI0.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/crtend.o>
+Tue May 10 21:43:37 2022: working directory: <E:\Eduardo\UTEC\2022-1\Software\design---observer-fuerzas-de-combate-especiales-ginyu\>
+Tue May 10 21:43:37 2022: isWow64: 0
+Tue May 10 21:43:37 2022: skipping process C:\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\7.3.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe with pid: 13156
+Tue May 10 21:43:37 2022: process with pid 13156 exit with code: 0 (0x0)
+Tue May 10 21:43:37 2022: process with pid 6048 exit with code: 0 (0x0)
+Tue May 10 21:43:37 2022: process with pid 11352 exit with code: 0 (0x0)
+Tue May 10 21:43:37 2022: finalizing json file

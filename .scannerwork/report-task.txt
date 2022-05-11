@@ -1,0 +1,7 @@
+organization=cs2901-2022-1-ingenieria-de-software
+projectKey=cs2901-2022-1-Ingenieria-de-Software_design---observer-fuerzas-de-combate-especiales-ginyu
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.28905
+dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2022-1-Ingenieria-de-Software_design---observer-fuerzas-de-combate-especiales-ginyu
+ceTaskId=AYCxAe7yWXCYUwR2EqPC
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYCxAe7yWXCYUwR2EqPC
