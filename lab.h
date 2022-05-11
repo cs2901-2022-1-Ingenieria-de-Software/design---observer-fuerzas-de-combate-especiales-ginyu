@@ -28,6 +28,8 @@ class Observer
       P = _P;
 			H = _H;
     };
+
+    void display(){};
 };
 
 
@@ -58,11 +60,19 @@ class Statistics : public Observer
 class DisplayDevice 
 {
 public:
-	void display(){
-    cout << 1;
-  }
+  DisplayDevice(Forecast* f, CConditions* c, Statistics* s){
+        obs.push_back(f);
+        obs.push_back(c);
+        obs.push_back(s);
+    }
+  void display(){
+        for(int i = 0; i<obs.size(); i++){
+            obs[i]->display();
+        }
+    }
 private:
 	string id;
+  vector<Observer*> obs;
 };
 
 

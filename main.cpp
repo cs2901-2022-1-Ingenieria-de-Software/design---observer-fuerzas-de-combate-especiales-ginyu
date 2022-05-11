@@ -15,6 +15,6 @@ int main(){
     station->cambiarPresion(140);
     station->cambiarTemperatura(200);
 
-    conditions->display();
-    
+    DisplayDevice* device = new DisplayDevice(forecast, conditions, statistics);
+    device->display();
 }
